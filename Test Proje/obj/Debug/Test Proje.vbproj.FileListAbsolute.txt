@@ -1,0 +1,11 @@
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\bin\Debug\Test Proje.exe.config
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\bin\Debug\Test Proje.exe
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\bin\Debug\Test Proje.pdb
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\bin\Debug\Test Proje.xml
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\obj\Debug\Test Proje.vbprojAssemblyReference.cache
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\obj\Debug\Test_Proje.Resources.resources
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\obj\Debug\Test Proje.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\obj\Debug\Test Proje.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\obj\Debug\Test Proje.exe
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\obj\Debug\Test Proje.xml
+C:\Users\BIP\Desktop\Muhammed Reis\Test Proje\Test Proje\obj\Debug\Test Proje.pdb
